@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @haoyudu
+- 👀 I’m interested in [math](https://sites.google.com/umich.edu/haoyu-du/home) and [neuroscience](https://sites.lsa.umich.edu/cnllab/).
+- 🌱 I’m currently learning how to do EEG analysis with [mne](https://mne.tools/stable/index.html). 
+- 💞️ I’m looking to collaborate on language-related projects.
+- 📫 Reach me at haoyudu [at] umich [dot] edu.
